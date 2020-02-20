@@ -83,8 +83,6 @@ for images,labels in valloader: # loading from the testing set
         logps = model(img) # log probabilities
 
     ps = torch.exp(logps) # actual probabilities
-
-    print(ps)
     
     probab = list(ps.numpy()[0])
 
