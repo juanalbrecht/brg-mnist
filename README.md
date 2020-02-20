@@ -6,6 +6,8 @@ Source: https://towardsdatascience.com/handwritten-digit-mnist-pytorch-977b5338e
 ## Diagram of the neural network implemented in this model:
 * Contains an input layer (the first layer), an output layer of ten neurons (one for each possible digit) and two hidden layers in between
 
+![](image/diagram.png)
+
 ## Steps to run the digit classification model:
 * $ python mnist-classification.py
 
