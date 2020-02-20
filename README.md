@@ -9,4 +9,4 @@ Source: https://towardsdatascience.com/handwritten-digit-mnist-pytorch-977b5338e
 ## Steps to run the digit classification model:
 * $ python mnist-classification.py
 
-## NOTE: pytorch needs to be installed in the environment where the classifier is run
+### NOTE: pytorch needs to be installed in the environment where the classifier is run
